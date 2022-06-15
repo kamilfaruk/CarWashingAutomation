@@ -1,0 +1,53 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+# test
+# use glob syntax
+syntax: glob
+
+/.vs
+/.git
+/CarWashingAutomation/obj
+/CarWashingAutomation/bin
+/LicenseKeyGenerator/obj
+/LicenseKeyGenerator/bin
+/ParameterEditor/obj
+/ParameterEditor/bin
+
+# Ignore Visual Studio files
+/.vs
+*.orig
+*.obj
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.scc
+*.nupkg
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.vssscc
+.builds
+*.pidb
+*.svclog
+[Bb]in
+[Dd]ebug*/
+[Oo]bj/
+[Rr]elease*/
+[Pp]ackages/
